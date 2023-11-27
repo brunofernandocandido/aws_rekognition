@@ -1,0 +1,47 @@
+.all{
+  justify-content: space-between;
+  display: flex;
+  height: 500px;
+}
+
+.App {
+  padding: 110px;
+  text-align: center;
+  width: 540px;
+  height: 500x;
+}
+
+.Text{
+  
+  background-color: lightcoral;
+  width: 600px;
+  height: 510px;
+  padding: 13rem;
+  text-align: justify;
+  border-top-right-radius: 100px;
+  border-bottom-right-radius: 100px;
+  border-color: lightyellow;
+}
+
+.success{
+  padding: 1rem;
+  color: green;
+}
+
+.failure{
+  padding: 1rem;
+  color: red;
+}
+
+.titulo{
+  color: black;
+  text-align: center;
+  font-size: xx-large;
+}
+
+.exemplo{
+  font-size: xx-large;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+input { margin: 20px; }
